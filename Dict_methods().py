@@ -36,4 +36,8 @@ print(user.popitem())   ## last keys-values pair removed
 print(user)    ## remaining dict values  item
 
 user.update ({'dept' : 'IT'})   ## add the item in the dict
+<<<<<<< HEAD
+print(user)-
+=======
 print(user)
+>>>>>>> fa4565ec049dcc871aea40a9517e62c16732700e
